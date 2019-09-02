@@ -1,0 +1,16 @@
+{
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "src/test/**/*"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "outDir": "build",
+        "allowJs": true,
+        "target": "es5",
+        "sourceMap": true,
+        "allowSyntheticDefaultImports": true
+    }
+}
