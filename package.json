@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bbgrabbag/test-surface.git"
+    "url": "git+https://github.com/bbgrabbag/node-env-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bbgrabbag/test-surface/issues"
+    "url": "https://github.com/bbgrabbag/node-env-boilerplate/issues"
   },
-  "homepage": "https://github.com/bbgrabbag/test-surface#readme",
+  "homepage": "https://github.com/bbgrabbag/node-env-boilerplate#readme",
   "devDependencies": {
     "jest": "^24.9.0",
     "nodemon": "^1.19.1",
